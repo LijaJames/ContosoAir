@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/lijajames/PartsUnlimited_Demo/_apis/build/status/PartsUnlimited_Demo-ASP.NET-CI?branchName=master)](https://dev.azure.com/lijajames/PartsUnlimited_Demo/_build/latest?definitionId=4&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
